@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-reactivestreams-ktx:2.6.0-alpha01@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f30b94d3cd48ec27ae248f0a724c8530/transformed/jetified-lifecycle-reactivestreams-ktx-2.6.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f30b94d3cd48ec27ae248f0a724c8530/transformed/jetified-lifecycle-reactivestreams-ktx-2.6.0-alpha01/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f30b94d3cd48ec27ae248f0a724c8530/transformed/jetified-lifecycle-reactivestreams-ktx-2.6.0-alpha01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-reactivestreams-ktx/2.6.0-alpha01/23c53fd2626cac61baac62c95dec1c49046e0261/lifecycle-reactivestreams-ktx-2.6.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
